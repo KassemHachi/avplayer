@@ -1,0 +1,38 @@
+c:\users\alix hachi\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.WMPLib.dll
+c:\users\alix hachi\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.WMPLib.dll
+c:\users\alix hachi\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.WMPLib.dll
+c:\users\alix hachi\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.WMPLib.dll
+c:\users\alix hachi\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+c:\users\alix hachi\documents\visual studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\ALIX Hachi\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AV Player.exe.config
+C:\Users\ALIX Hachi\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AV Player.exe
+C:\Users\ALIX Hachi\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AV Player.pdb
+C:\Users\ALIX Hachi\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AV Player.xml
+C:\Users\ALIX Hachi\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\AVPlayer.Form1.resources
+C:\Users\ALIX Hachi\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\AVPlayer.Form2.resources
+C:\Users\ALIX Hachi\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\AVPlayer.Form3.resources
+C:\Users\ALIX Hachi\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\AVPlayer.Form4.resources
+C:\Users\ALIX Hachi\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\AVPlayer.Resources.resources
+C:\Users\ALIX Hachi\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\AV Player.exe
+C:\Users\ALIX Hachi\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\AV Player.xml
+C:\Users\ALIX Hachi\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\AV Player.pdb
+C:\Users\ALIX Hachi\Documents\Visual Studio 2012\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\FaTi\Documents\Visual Studio 2013\Projects\WindowsApplication1\bin\Debug\AV Player.exe.config
+C:\Users\FaTi\Documents\Visual Studio 2013\Projects\WindowsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\FaTi\Documents\Visual Studio 2013\Projects\WindowsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\FaTi\Documents\Visual Studio 2013\Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\FaTi\Documents\Visual Studio 2013\Projects\WindowsApplication1\obj\Debug\AV Player.exe
+C:\Users\FaTi\Documents\Visual Studio 2013\Projects\WindowsApplication1\obj\Debug\AV Player.xml
+C:\Users\FaTi\Documents\Visual Studio 2013\Projects\WindowsApplication1\obj\Debug\AV Player.pdb
+C:\Users\FaTi\Documents\Visual Studio 2013\Projects\WindowsApplication1\bin\Debug\AV Player.exe
+C:\Users\FaTi\Documents\Visual Studio 2013\Projects\WindowsApplication1\bin\Debug\AV Player.pdb
+C:\Users\FaTi\Documents\Visual Studio 2013\Projects\WindowsApplication1\bin\Debug\AV Player.xml
+C:\Users\FaTi\Documents\Visual Studio 2013\Projects\WindowsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\FaTi\Documents\Visual Studio 2013\Projects\WindowsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\FaTi\Documents\Visual Studio 2013\Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\FaTi\Documents\Visual Studio 2013\Projects\WindowsApplication1\obj\Debug\AVPlayer.Form1.resources
+C:\Users\FaTi\Documents\Visual Studio 2013\Projects\WindowsApplication1\obj\Debug\AVPlayer.Form2.resources
+C:\Users\FaTi\Documents\Visual Studio 2013\Projects\WindowsApplication1\obj\Debug\AVPlayer.Form3.resources
+C:\Users\FaTi\Documents\Visual Studio 2013\Projects\WindowsApplication1\obj\Debug\AVPlayer.Form4.resources
+C:\Users\FaTi\Documents\Visual Studio 2013\Projects\WindowsApplication1\obj\Debug\AVPlayer.Resources.resources
+C:\Users\FaTi\Documents\Visual Studio 2013\Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
